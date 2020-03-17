@@ -38,3 +38,5 @@ Element.getBoundingClientRect()方法返回元素的大小及其相对于视口�
 
 #### 5.使用react-sticky实现
 利用react的组件库实现，把要吸顶的元素包在StickyContainer和Sticky里面，再设置吸顶条件，默认的吸顶条件是距离顶部为0（即topOffset为0）。
+
+### ß
